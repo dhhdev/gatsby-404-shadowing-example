@@ -1,0 +1,21 @@
+{
+  "name": "gatsby-theme-404",
+  "version": "0.0.1",
+  "description": "A example of a theme that makes it possible to shadow files, like a 404 page.",
+  "author": {
+    "name": "Daniel Hyldebrandt Hemmingsen",
+    "email": "daniel@dhhit.dk"
+  },
+  "main": "gatsby-config.js",
+  "license": "MIT",
+  "devDependencies": {
+    "gatsby": "^2.15.28",
+    "react": "^16.10.1",
+    "react-dom": "^16.10.1"
+  },
+  "peerDependencies": {
+    "gatsby": "^2.15.28",
+    "react": "^16.10.1",
+    "react-dom": "^16.10.1"
+  }
+}
